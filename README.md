@@ -1,9 +1,9 @@
-# allenhori/homebrew-tap
+# get-dre/homebrew-tap
 
-Homebrew formulae for [DRE](https://github.com/allenhori/dre), the Declarative Reporting Engine.
+Homebrew formulae for [DRE](https://github.com/get-dre/dre), the Declarative Reporting Engine.
 
 ```bash
-brew install allenhori/tap/dre
+brew install get-dre/tap/dre
 ```
 
 `Formula/dre.rb` is written by DRE's release workflow for each release; don't edit it by hand.
